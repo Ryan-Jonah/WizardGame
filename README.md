@@ -4,3 +4,5 @@ An early project of mine which helped me gain a deeper understanding of Python w
 
 
 Control character using WASD + mouse.
+
+![Wizard Game](/Images/WizardGame.png)
